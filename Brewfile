@@ -1,0 +1,2 @@
+brew "sbcl"
+brew "ocicl"

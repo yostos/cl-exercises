@@ -1,0 +1,7 @@
+*.fasl
+*.fas
+*.lib
+*~
+.DS_Store
+ocicl/
+bin/
